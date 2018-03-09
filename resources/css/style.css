@@ -17,6 +17,7 @@ h2 {
 h3 {
   color: aquamarine;
   font-size: 16px;
+  font-weight: normal;
 }
 a {
   color: aquamarine;
@@ -25,6 +26,10 @@ p {
   font-size: 21px;
   color: gray;
 }
-video {
-  align-items: center;
+#copyright {
+  text-align: right;
+
+}
+#phone {
+  padding-top: 20px;
 }
